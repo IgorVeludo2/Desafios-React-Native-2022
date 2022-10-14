@@ -1,0 +1,1 @@
+Repositório responsável por armazenar todos os desafios da trilha ignite de React Native em 2022
